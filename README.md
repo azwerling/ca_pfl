@@ -7,3 +7,5 @@ Highlights include:
 - More than half of Californians receive the maximum benefit amount.
 - Californians who adopt the program generally take advantage of the maximum number of weeks allotted.
 - An area of opportunity to increase awareness about caregiver leave.
+
+![ca_edd_dashboard](https://github.com/user-attachments/assets/e4a257fd-0f81-4467-a011-5637cdd6e5af)
